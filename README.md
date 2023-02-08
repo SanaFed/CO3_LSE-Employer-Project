@@ -1,1 +1,1 @@
-# CO3_LSE-Employer-Project xxx
+# CO3_LSE-Employer-Project
