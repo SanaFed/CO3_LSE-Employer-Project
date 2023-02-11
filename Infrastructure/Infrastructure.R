@@ -4,7 +4,7 @@
 # Load packages
 library(CycleInfraLnd)
 library(tidyverse)
-library(sf)
+#library(sf)
 library(cowplot)
 library(ggpubr)
 library(dplyr)
@@ -116,6 +116,7 @@ mapview(parking_borough, zcol = "BOROUGH", legend = FALSE) +
 # Camden = parking_borough %>% 
 #   filter(BOROUGH == "Camden")
 # mapview(Camden)
+
 ###
 
 # 2. CYCLE LANES IN LONDON.
@@ -158,7 +159,7 @@ mapview(nan_borough, zcol = "BOROUGH", lwd = 2) +
   mapview(lon_2020, alpha.regions = 0.3, zcol = "BOROUGH", legend = FALSE, lwd = 0.5)
 
 # Update NaN boroughs with the values according to the map.
-cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG290719'] <- 'Croyadon'
+cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG290719'] <- 'Croydon'
 cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG235336'] <- 'Hounslow'
 cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG290078'] <-  'Redbridge'
 cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG235661'] <- 'Hounslow'
@@ -169,7 +170,7 @@ cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG290813'] <- 'Croydon'
 cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG199014'] <- 'Greenwich'
 cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG154871'] <- 'Hackney'
 cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG278754'] <- 'Bromley'
-cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG291579'] <- 'Honslow'
+cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG291579'] <- 'Hounslow'
 cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG154182'] <- 'Wandsworth'
 cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG150143'] <- 'Waltham Forest'
 cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG109844'] <- 'Wandsworth'
@@ -200,7 +201,7 @@ cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG280124'] <- 'Haringey'
 cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG155721'] <- 'Tower Hamlets'
 cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG290822'] <- 'Croydon'
 cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG279906'] <- 'Barnet'
-cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG235043'] <- 'Honslow'
+cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG235043'] <- 'Hounslow'
 cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG280207'] <- 'Haringey'
 cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG066544'] <- 'Westminster'
 cycle_lane$BOROUGH[cycle_lane$FEATURE_ID == 'RWG237461'] <- 'Ealing'
@@ -439,7 +440,7 @@ mapview(nan_borough) +
 cycle_asl <- replace(cycle_asl, is.na(cycle_asl), 'Greenwich')
 
 # Check for missing values.
-sum(is.na(cycle_asl))   # no missing values found.
+sum(is.na(cycle_asl))   # no missing values.
 
 # Checking 
 unique(cycle_asl$FEATURE_ID)   #3775 records
@@ -458,7 +459,6 @@ cycle_asl$ASL_FDRLFT <- as.integer(as.logical(cycle_asl$ASL_FDRLFT))
 cycle_asl$ASL_FDCENT <- as.integer(as.logical(cycle_asl$ASL_FDCENT))
 cycle_asl$ASL_FDRIGH <- as.integer(as.logical(cycle_asl$ASL_FDRIGH))
 cycle_asl$ASL_SHARED <- as.integer(as.logical(cycle_asl$ASL_SHARED))
-cycle_asl$ASL_COLOUR <- as.integer(as.logical(cycle_asl$ASL_COLOUR))
 view(cycle_asl)
 
 # Adding the length of the ASL.
