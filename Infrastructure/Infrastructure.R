@@ -5,9 +5,9 @@
 # Load packages.
 library(CycleInfraLnd)
 library(tidyverse)
-library(sf)
 library(dplyr)
 library(mapview)
+library(sf)
 
 # Import boroughs bounary map (ONS London data - file = lon_boundaries_Dec_2020_BFC.Rds)
 lon_2020 <- readRDS(file.choose())
@@ -965,8 +965,11 @@ view(cycle_sign_borough)
 
 # no map image, as there are too many signs. You can filter the dataset
 # by some criteria an see the distribution on the map.
+# for the same reason no .csv file generated (to avoid large size files creation)
+# if required, it can be done using the code below:
 
-
+# Save the file with the data frame used in your wd.
+# write_csv(cycle_sign, file='cycle_sign.csv')
 
 
 
