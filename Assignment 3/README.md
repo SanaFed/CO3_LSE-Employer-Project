@@ -12,4 +12,5 @@ R Script: ATeam_LSE_EP_Assignment3_EDA.R
 Research not included in the final documents: NYC Data.ipynb
 
 - One of the hypothesis was to see if there is anything we can apply for London infrastructure (cycle parking capacity) using NYC experience.
+- https://data.cityofnewyork.us/Transportation/Bicycle-Parking/yh4a-g3fj additional information was found here.
 - Small investigation was done using the original dataset we were given (Bicycle_Parking.csv). However, the conclusion was made that NYC has less developed parking capacity avalable, than London. So we decided not to investigate it further.
