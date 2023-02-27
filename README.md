@@ -40,8 +40,8 @@ Presentation with data-informed recommendations to the employer partner based on
 Final report (pdf), presentation to the employer partner (pdf and mp4 recording), two Python3 Notebooks (draft and final) with the analysis 
 as well as the additional data sets used for the analysis (CSV, XLSX and JSON files), R file with the cycling infrustructure analysis. 
 
-**Other folders**
+**Other folders:**
 
-Provide more in-depth analysis additionally to the main insigths and observations which were included in the final Notebook (ATeam_LSE_EP_Assignment3_Final_Analysis-2.ipynb). 
+Provide more in-depth analysis additionally to the main insigths and observations which were included in the final Notebook (ATeam_LSE_EP_Assignment3_Final_Analysis.ipynb). 
 
 
