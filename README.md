@@ -2,7 +2,7 @@
 
 PROJECT TEAM MEMBERS:
 
-Oksana Fedorova 
+Oksana Fedorova \n 
 Irina Popkova 
 Dominic Gooch 
 Christos Pieris
