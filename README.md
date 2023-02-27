@@ -9,6 +9,10 @@ Christos Pieris,
 Jia Shin Ang, 
 Yashveer Suryavanshi
 
+**EMPLOYER PARTNER:**
+
+Thoughtworks
+
 **CONTEXT OF THE BUSINESS PROBLEM:**
 
 Transport for London (TFL), as guided by the London Mayor’s Transport Strategy 2018 (MTS) has the central aim for 80% of all trips in London to be made on foot, by cycle or using public transport.
