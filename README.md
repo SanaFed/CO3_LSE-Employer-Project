@@ -1,6 +1,6 @@
 # CO3_LSE-Employer-Project
 
-PROJECT TEAM MEMBERS:
+**PROJECT TEAM MEMBERS:**
 
 Oksana Fedorova, 
 Irina Popkova, 
