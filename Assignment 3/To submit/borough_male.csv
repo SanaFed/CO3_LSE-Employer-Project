@@ -1,0 +1,167 @@
+,Borough,Survey wave (year),Number of male cycles
+0,Barking & Dagenham,2015,1177
+1,Barking & Dagenham,2016,1073
+2,Barking & Dagenham,2017,1025
+3,Barking & Dagenham,2018,1220
+4,Barking & Dagenham,2019,939
+5,Barking & Dagenham,2020,1066
+6,Barking & Dagenham,2021,1269
+7,Barnet,2015,2126
+8,Barnet,2016,2310
+9,Barnet,2017,2255
+10,Barnet,2018,2270
+11,Barnet,2019,2369
+12,Barnet,2020,1049
+13,Barnet,2021,2930
+14,Bexley,2015,987
+15,Bexley,2016,993
+16,Bexley,2017,1032
+17,Bexley,2018,1002
+18,Bexley,2019,954
+19,Bexley,2020,864
+20,Bexley,2021,979
+21,Brent,2015,3183
+22,Brent,2016,3169
+23,Brent,2017,3577
+24,Brent,2018,3633
+25,Brent,2019,3112
+26,Brent,2020,2988
+27,Brent,2021,3929
+28,Bromley,2015,2347
+29,Bromley,2016,2136
+30,Bromley,2017,2566
+31,Bromley,2018,2492
+32,Bromley,2019,2402
+33,Bromley,2020,1416
+34,Bromley,2021,3087
+35,Croydon,2015,2319
+36,Croydon,2016,2498
+37,Croydon,2017,2613
+38,Croydon,2018,2613
+39,Croydon,2019,2508
+40,Croydon,2020,1922
+41,Croydon,2021,2701
+42,Ealing,2015,5767
+43,Ealing,2016,5444
+44,Ealing,2017,5306
+45,Ealing,2018,6257
+46,Ealing,2019,5757
+47,Ealing,2020,6123
+48,Ealing,2021,6401
+49,Enfield,2015,1496
+50,Enfield,2016,1339
+51,Enfield,2017,1686
+52,Enfield,2018,1568
+53,Enfield,2019,1342
+54,Enfield,2020,984
+55,Enfield,2021,1296
+56,Greenwich,2015,2430
+57,Greenwich,2016,2482
+58,Greenwich,2017,2762
+59,Greenwich,2018,2840
+60,Greenwich,2019,2698
+61,Greenwich,2020,1212
+62,Greenwich,2021,3316
+63,Haringey,2015,3533
+64,Haringey,2016,3484
+65,Haringey,2017,3222
+66,Haringey,2018,3506
+67,Haringey,2019,3283
+68,Haringey,2020,3338
+69,Haringey,2021,4693
+70,Harrow,2015,756
+71,Harrow,2016,641
+72,Harrow,2017,668
+73,Harrow,2018,942
+74,Harrow,2019,661
+75,Harrow,2020,1056
+76,Harrow,2021,651
+77,Havering,2015,1418
+78,Havering,2016,1408
+79,Havering,2017,1667
+80,Havering,2018,1500
+81,Havering,2019,1189
+82,Havering,2020,970
+83,Havering,2021,1168
+84,Hillingdon,2015,3439
+85,Hillingdon,2016,3224
+86,Hillingdon,2017,3234
+87,Hillingdon,2018,3805
+88,Hillingdon,2019,3012
+89,Hillingdon,2020,2060
+90,Hillingdon,2021,3448
+91,Hounslow,2015,5823
+92,Hounslow,2016,5502
+93,Hounslow,2017,6073
+94,Hounslow,2018,5985
+95,Hounslow,2019,5210
+96,Hounslow,2020,5759
+97,Hounslow,2021,5796
+98,Kingston upon Thames,2015,4359
+99,Kingston upon Thames,2016,4594
+100,Kingston upon Thames,2017,5198
+101,Kingston upon Thames,2018,5560
+102,Kingston upon Thames,2019,4730
+103,Kingston upon Thames,2020,4397
+104,Kingston upon Thames,2021,5082
+105,Lambeth,2015,149
+106,Lambeth,2016,178
+107,Lambeth,2017,182
+108,Lambeth,2018,174
+109,Lambeth,2019,152
+110,Lambeth,2021,237
+111,Lewisham,2015,3760
+112,Lewisham,2016,3673
+113,Lewisham,2017,3922
+114,Lewisham,2018,4442
+115,Lewisham,2019,4204
+116,Lewisham,2020,3434
+117,Lewisham,2021,4420
+118,Merton,2015,4185
+119,Merton,2016,3975
+120,Merton,2017,3813
+121,Merton,2018,5101
+122,Merton,2019,3723
+123,Merton,2020,4343
+124,Merton,2021,4890
+125,Newham,2015,4325
+126,Newham,2016,4448
+127,Newham,2017,5158
+128,Newham,2018,5604
+129,Newham,2019,5121
+130,Newham,2020,5505
+131,Newham,2021,7211
+132,Redbridge,2015,1601
+133,Redbridge,2016,1441
+134,Redbridge,2017,1562
+135,Redbridge,2018,1667
+136,Redbridge,2019,1225
+137,Redbridge,2020,1605
+138,Redbridge,2021,2532
+139,Richmond upon Thames,2015,8809
+140,Richmond upon Thames,2016,8916
+141,Richmond upon Thames,2017,8478
+142,Richmond upon Thames,2018,9042
+143,Richmond upon Thames,2019,8158
+144,Richmond upon Thames,2020,8919
+145,Richmond upon Thames,2021,9303
+146,Sutton,2015,2047
+147,Sutton,2016,2172
+148,Sutton,2017,2267
+149,Sutton,2018,2566
+150,Sutton,2019,2065
+151,Sutton,2020,1564
+152,Sutton,2021,2597
+153,Waltham Forest,2015,3325
+154,Waltham Forest,2016,3203
+155,Waltham Forest,2017,3322
+156,Waltham Forest,2018,3832
+157,Waltham Forest,2019,3468
+158,Waltham Forest,2020,3388
+159,Waltham Forest,2021,4199
+160,Wandsworth,2015,33
+161,Wandsworth,2016,42
+162,Wandsworth,2017,60
+163,Wandsworth,2018,72
+164,Wandsworth,2019,46
+165,Wandsworth,2021,79
