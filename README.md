@@ -35,7 +35,13 @@ Presentation with data-informed recommendations to the employer partner based on
 
 ## Assignment 3: Final report and presentation (submitted on 27th February 2023)
 
+**ATeam_LSE_EP_Assignment3 folder:**
+
 Final report (pdf), presentation to the employer partner (pdf and mp4 recording), two Python3 Notebooks (draft and final) with the analysis 
 as well as the additional data sets used for the analysis (CSV, XLSX and JSON files), R file with the cycling infrustructure analysis. 
+
+**Other folders**
+
+Provide more in-depth analysis additionally to the main insigths and observations which were included in the final Notebook (ATeam_LSE_EP_Assignment3_Final_Analysis-2.ipynb). 
 
 
