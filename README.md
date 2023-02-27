@@ -46,6 +46,6 @@ as well as the additional data sets used for the analysis (CSV, XLSX and JSON fi
 
 **Other folders:**
 
-Provide more in-depth analysis additionally to the main insigths and observations which were included in the final Notebook (ATeam_LSE_EP_Assignment3_Final_Analysis.ipynb). 
+Provide more in-depth analysis additionally to the main insights and observations which were included in the final Notebook (ATeam_LSE_EP_Assignment3_Final_Analysis.ipynb). 
 
 
